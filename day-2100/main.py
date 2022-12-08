@@ -17,4 +17,4 @@ print("Thanks for sharing this with me", name + "!",
 print()
 print("Your name is", name + ",", "your favorite food is", favorite_food + ",",
       "your favorite musical genre is", favorite_music + ",",
-      "and you live in ", place + "!")
+      "and you live in", place + "!")
